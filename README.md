@@ -1,1 +1,1 @@
-# PowerBI
+In this project I gathered the most recent data for Pakistan's intellectual capital from Kaggle. Most people were utilizing it to do EDA, I downloaded it with the same intent and it sat in my downloads for months because I couldn't figure out what to do with it apart from the usual EDA. I used it to make an interactive dashboard instead. You can see the number of people from different department heads who got education from where and what they do currently, from their terminal degrees to their titles.
